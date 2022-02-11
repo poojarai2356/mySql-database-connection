@@ -1,4 +1,5 @@
 # mySql-database-connection
 
-*database used: mysql
-*programming language used: python
+### database used: mysql
+
+### programming language used: python
