@@ -1,7 +1,7 @@
 show databases;
 use movies;
 
- table Movies( name varchar(50) primary key,actor varchar(20), actress varchar(20), director varchar(20), year_of_release int);
+create table Movies( name varchar(20) primary key,actor varchar(20), actress varchar(20), director varchar(20), year_of_release int);
 
 insert into Movies values ("lagan", "amir khan","rachel shelly","ashutosh gwariker",2001),("3 idiot","amir","karina kapoor","rajkumar hirani",2009);
 
